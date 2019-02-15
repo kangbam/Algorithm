@@ -12,7 +12,7 @@ class magInfo{
 	}
 }
 
-public class Solution_4013 {
+public class Solution {
 	static int K;
 	static int[][] mag;
 	
