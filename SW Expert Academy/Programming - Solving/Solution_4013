@@ -1,6 +1,3 @@
-```
-java
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -105,4 +102,4 @@ public class Solution_4013 {
 		sc.close();
 	}
 }
-```
+
