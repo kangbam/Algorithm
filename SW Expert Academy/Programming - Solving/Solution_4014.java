@@ -1,6 +1,6 @@
+// 4014. 활주로 건설
 import java.util.Scanner;
 
-// 4014. 활주로 건설
 public class Solution {
 	static int N, X;
 	static int[][] map;
