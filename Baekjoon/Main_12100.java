@@ -177,7 +177,7 @@ public class Main {
 				map[i][j] = sc.nextInt();
 			}
 		}
-		// 4방향 검사
+		// 4방향 검사 
 		for(int k = 0; k < 4; k++) {
 			solve(k, map, 0);
 		}
