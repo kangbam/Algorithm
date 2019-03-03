@@ -1,4 +1,4 @@
-// 14499. 주사위 굴리기
+// 14499. 주사위 굴리기 
 
 import java.util.Arrays;
 import java.util.Scanner;
