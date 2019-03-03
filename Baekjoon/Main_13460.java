@@ -1,4 +1,4 @@
-// 13460. 구슬 탈출 2
+// 13460. 구슬 탈출 2 
 
 import java.awt.Point;
 import java.util.Scanner;
