@@ -37,8 +37,8 @@ public class Main {
 			
 		}
 		int ans = 0;
-		for(int i = 0; i < 101; i++) {
-			for(int j = 0; j < 101; j++) {
+		for(int i = 0; i < 100; i++) {
+			for(int j = 0; j < 100; j++) {
 				if(map[i][j] && map[i + 1][j] && map[i][j + 1] && map[i + 1][j + 1]) {
 					ans++;
 				}
