@@ -1,4 +1,4 @@
-//1953. 탈주범 검거
+// 1953. 탈주범 검거
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
