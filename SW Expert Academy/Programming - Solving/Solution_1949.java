@@ -1,4 +1,4 @@
-// 1949. 등산로 조성
+// 1949. 등산로 조성 
 import java.util.Scanner;
 
 public class Solution {
