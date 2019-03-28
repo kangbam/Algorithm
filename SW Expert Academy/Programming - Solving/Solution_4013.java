@@ -1,4 +1,5 @@
-// 4013. 특이한 자석
+// 4013. 특이한 자석 
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
