@@ -1,4 +1,5 @@
 // 4014. 활주로 건설
+
 import java.util.Scanner;
 
 public class Solution {
