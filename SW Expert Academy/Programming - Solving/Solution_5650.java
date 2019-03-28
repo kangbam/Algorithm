@@ -1,4 +1,4 @@
-// 5650. 핀볼 게임
+// 5650. 핀볼 게임 
 
 import java.awt.Point;
 import java.util.Scanner;
