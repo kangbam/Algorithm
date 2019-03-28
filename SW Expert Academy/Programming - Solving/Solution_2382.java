@@ -1,4 +1,4 @@
-// 2382. 미생물 격리
+// 2382. 미생물 격리 
 
 import java.util.ArrayList;
 import java.util.Scanner;
