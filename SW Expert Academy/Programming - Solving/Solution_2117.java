@@ -1,4 +1,4 @@
-// 2117. 홈 방범 서비스 (DFS )
+// 2117. 홈 방범 서비스 (DFS)
 
 import java.util.ArrayList;
 import java.util.Scanner;
